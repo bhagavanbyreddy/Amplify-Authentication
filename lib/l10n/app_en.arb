@@ -1,0 +1,19 @@
+{
+    "language": "English",
+    "@language":{
+      "description": "The current Language"
+    },
+    "amplify": "Amplify",
+    "@amplify": {
+      "description": "A Fitness app name"
+    },
+    "hello": "Hello {username}",
+    "@hello": {
+      "description": "A welcome message",
+      "placeholders": {
+         "username": {
+           "type": "String"
+         }
+      }
+    }
+}
